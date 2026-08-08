@@ -2,7 +2,7 @@ import { defineAstroPaperConfig } from "./src/types/config";
 
 export default defineAstroPaperConfig({
   site: {
-    url: "https://astro-paper.pages.dev/",
+    url: "https://personal-blog-9s3.pages.dev/",
     title: "hugeJan",
     description: "记录网页交互、Three.js 体验、工程实践与竞赛编程。",
     author: "hugeJan",
