@@ -7,8 +7,6 @@ tags: []
 draft: false
 ---
 
-# MacOS马赛克工具
-
 mac图片预览APP没有提供方便的打马方式，因此我做了这个[MosaicPhotos](https://github.com/hugeJan/MosaicPhotos)工具，能够比较方便的在截图后或者对现有文件进行快速打马赛克。
 
 ## 提供了三种使用方式
